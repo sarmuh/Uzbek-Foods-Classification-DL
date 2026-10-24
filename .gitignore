@@ -1,0 +1,25 @@
+# Dataset — rasmlarni GitHub'ga yuklama
+Uzbek-Foods/
+
+# Dataset arxivlari
+*.zip
+*.rar
+*.7z
+
+# Model og'irliklari
+*.pth
+*.pt
+*.onnx
+*.h5
+*.keras
+
+# Python vaqtinchalik fayllari
+__pycache__/
+*.pyc
+
+# Virtual muhit
+venv/
+.venv/
+
+# Jupyter checkpoint
+.ipynb_checkpoints/
