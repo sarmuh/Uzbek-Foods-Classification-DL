@@ -5,6 +5,8 @@ Uzbek-Foods/
 *.zip
 *.rar
 *.7z
+*.jpg
+*.png
 
 # Model og'irliklari
 *.pth
@@ -22,4 +24,5 @@ venv/
 .venv/
 
 # Jupyter checkpoint
-.ipynb_checkpoints/
+.ipynb_checkpoints/Uzbek-Foods/
+Uzbek-Foods/
