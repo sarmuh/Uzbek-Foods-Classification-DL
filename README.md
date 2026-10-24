@@ -1,2 +1,1 @@
-# Uzbek-Foods-Classification-DL
-Uzbek Foods Classification Deep Learning 
+#Uzbek Foods Classification Deep Learning 
