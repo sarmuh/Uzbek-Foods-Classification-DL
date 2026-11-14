@@ -13,8 +13,6 @@ Uzbek-Foods/
 *.pt
 *.onnx
 *.h5
-*.keras
-
 # Python vaqtinchalik fayllari
 __pycache__/
 *.pyc

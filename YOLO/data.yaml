@@ -1,0 +1,7 @@
+path: "C:/Users/user/Мой диск/Data Sayns/Uzbek-Foods-Classification-DL/YOLO/palov_dataset"
+
+train: "images/train"
+val: "images/val"
+
+names:
+  0: Palov
